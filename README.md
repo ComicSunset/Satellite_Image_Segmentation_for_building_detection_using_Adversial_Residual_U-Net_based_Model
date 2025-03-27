@@ -1,0 +1,1 @@
+# Satellite_Image_Segmentation_for_building_detection_using-_Adversial_Residual_U-Net_based_Model
