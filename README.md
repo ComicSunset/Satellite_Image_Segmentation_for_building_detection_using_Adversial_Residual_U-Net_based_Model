@@ -46,7 +46,8 @@ Efficient for Low-Power Devices: Since they use fewer resources, involution laye
 
 Better at Recognizing Complex Patterns: They can detect complicated details in an image better than regular layers, making them helpful for analyzing dense or cluttered areas in satellite images.
 
-![image](https://github.com/user-attachments/assets/f5f04ce2-abfc-46dc-9133-4d90f433930b)
+![image](https://github.com/user-attachments/assets/95a753e1-c38e-4a90-be30-77ced2b0897c)
+
 
 ### MATHEMATICAL TERMINOLOGIES IN ML USED IN THIS PROJECT
 
