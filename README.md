@@ -79,7 +79,7 @@ Implemented U-net based model and calculated the values of dice coefficent,IOU,P
 
 3.PuTTY: It is primarily used for secure remote access to servers and network devices through SSH, Telnet, and other protocols, making it a crucial tool for system administrators.
 
-4.Hexa(drone): A hexacopter is a six-rotor drone offering enhanced stability, redundancy, and payload capacity, making it ideal for aerial photography, mapping, and industrial applications. Its design allows continued flight even if one motor fails, ensuring reliability in various conditions. 
+4.Hexa(drone): A hexacopter is a six-rotor drone offering enhanced stability, redundancy, and payload capacity, making it ideal for aerial photography, mapping, and industrial applications. Its design allows continued flight even if one motor fails, ensuring reliability in various conditions.
 
 
 
