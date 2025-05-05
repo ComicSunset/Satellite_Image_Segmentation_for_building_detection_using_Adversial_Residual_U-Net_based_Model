@@ -82,6 +82,14 @@ Implemented U-net based model and calculated the values of dice coefficent,IOU,P
 
 4.Quadcopter(drone): A hexacopter is a six-rotor drone offering enhanced stability, redundancy, and payload capacity, making it ideal for aerial photography, mapping, and industrial applications. Its design allows continued flight even if one motor fails, ensuring reliability in various conditions.
 
+## DATASETS LINKS TO DOWNLOAD FROM THE DRIVE 
+
+1.https://drive.google.com/drive/folders/1M37GNOwjIggxbSZj1WWaeq2mp0bU6kOQ?usp=drive_link
+
+2.https://drive.google.com/drive/folders/1DoM_fWSnJoOXf7aIWbdxXk2lnd_1eQnh?usp=drive_link
+
+
+
 
 
 
